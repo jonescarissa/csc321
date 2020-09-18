@@ -178,39 +178,31 @@ def arp_table():
     log.info('Getting ARP info')
     arp_items = get_arp()
     names, ips, macs, companies = _.pipe(
-         arp_items,
-         _.map(lambda i: (i['name'], i['ip'], i['mac'],
-                          i['info'].get('company', ''))),
-         lambda items: zip(*items),
+        arp_items,
+        _.map(lambda i: (
+            i.get('name', ''),
+            i.get('ip', ''),
+            i.get('mac', ''),
+            i.get('info', {}).get('company', ''),
+        )),
+        lambda items: zip(*items),
     )
     max_n, max_i, max_m, max_c = _.pipe(
         [names, ips, macs, companies],
-         _.map(lambda l: max(l, key=len)),
-         _.map(len),
-         tuple,
+        _.map(lambda l: max(l, key=len)),
+        _.map(len),
+        tuple,
     )
     header = [
-         ['Name', 'IP', 'MAC', 'Company'],
-         ['-' * max_n, '-' * max_i, '-' * max_m, '-' * max_c],
+        ['Name', 'IP', 'MAC', 'Company'],
+        ['-' * max_n, '-' * max_i, '-' * max_m, '-' * max_c],
     ]
     _.pipe(
         _.concatv(header, zip(names, ips, macs, companies)),
         __.vmap(lambda n, i, m, c: (
-             n.ljust(max_n), i.ljust(max_i), m.ljust(max_m), c.ljust(max_c)
+            n.ljust(max_n), i.ljust(max_i), m.ljust(max_m), c.ljust(max_c)
         )),
         _.map('  '.join),
         '\n'.join,
         print,
-    )
-
-
-def get_ping(host, n):
-    output = ping_output(host, n)
-
-    return _.pipe(
-        ping_re,
-        _.itemmap(__.vcall(lambda key, func: (
-            key, func(output)
-        ))),
-        _.valfilter(lambda v: v),
     )
