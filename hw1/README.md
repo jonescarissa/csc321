@@ -31,21 +31,35 @@ Interface: 172.18.5.145 --- 0x19
   224.0.0.251           01-00-5e-00-00-fb     static
   239.255.255.250       01-00-5e-7f-ff-fa     static
   255.255.255.255       ff-ff-ff-ff-ff-ff     static
+``` 
+
+  2.'I can't really tell if what devices are connected to the network but I can see what companies are connected to the network such as SmartRG, Inc., Microsoft Corporation and Microsoft. So, I'm thinking at the two Microsoft things are my laptop and my Xbox One. I'm thinking the SmartRG, Inc. is the Wifi itself.'
 ```
-2. 
-```
-    >>> netlayers.arp_table()
-    Traceback (most recent call last):
-    File "<stdin>", line 1, in <module>
-    File "C:\Users\cj917\Documents\belhavencs\csc321\hw1\netlayers.py", line 184, in arp_table
-    lambda items: zip(arp_items),
-    File "C:\Users\cj917\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.7_qbz5n2kfra8p0\LocalCache\local-packages\Python37\site-packages\toolz\functoolz.py", line 634, in pipe
-    data = func(data)
-    File "C:\Users\cj917\Documents\belhavencs\csc321\hw1\netlayers.py", line 184, in <lambda>
-    lambda items: zip(arp_items),
-    File "C:\Users\cj917\Documents\belhavencs\csc321\hw1\netlayers.py", line 182, in <lambda>
-    _.map(lambda i: (i['name'], i['ip'], i['mac'],
-    KeyError: 'name'
+  >>> netlayers.arp_table()
+    Name  IP               MAC                Company
+    ---------------  -----------------  ---------------------
+    192.168.56.255   ff:ff:ff:ff:ff:ff
+    224.0.0.2        01:00:5e:00:00:02
+    224.0.0.22       01:00:5e:00:00:16
+    224.0.0.251      01:00:5e:00:00:fb
+    224.0.0.252      01:00:5e:00:00:fc
+    239.255.255.250  01:00:5e:7f:ff:fa
+    192.168.1.1      3c:90:66:8b:ae:51  SmartRG, Inc.
+    192.168.1.119    98:5f:d3:b5:b8:ea  Microsoft Corporation
+    192.168.1.219    c0:33:5e:ec:33:37  Microsoft
+    192.168.1.255    ff:ff:ff:ff:ff:ff
+    224.0.0.2        01:00:5e:00:00:02
+    224.0.0.22       01:00:5e:00:00:16
+    224.0.0.251      01:00:5e:00:00:fb
+    224.0.0.252      01:00:5e:00:00:fc
+    239.255.255.250  01:00:5e:7f:ff:fa
+    255.255.255.255  ff:ff:ff:ff:ff:ff
+    172.17.55.255    ff:ff:ff:ff:ff:ff
+    224.0.0.2        01:00:5e:00:00:02
+    224.0.0.22       01:00:5e:00:00:16
+    224.0.0.251      01:00:5e:00:00:fb
+    239.255.255.250  01:00:5e:7f:ff:fa
+    255.255.255.255  ff:ff:ff:ff:ff:ff
 ```
 
 ## Network
