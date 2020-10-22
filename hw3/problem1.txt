@@ -1,0 +1,111 @@
+Node00
+
+root@node00:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+root@node00:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 node00:44484            node00:5555             TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     363333
+unix  3      [ ]         STREAM     CONNECTED     363332
+unix  3      [ ]         STREAM     CONNECTED     363335
+unix  3      [ ]         STREAM     CONNECTED     363334
+unix  3      [ ]         STREAM     CONNECTED     363337
+unix  3      [ ]         STREAM     CONNECTED     363336
+unix  3      [ ]         STREAM     CONNECTED     363339
+unix  3      [ ]         STREAM     CONNECTED     363338
+
+root@node00:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 node00:44484            node00:5555             TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+Node01
+
+root@node01:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+root@node01:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 node01:58224            node01:5555             ESTABLISHED
+tcp        0      0 node01:5555             node01:58224            ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     366907
+unix  3      [ ]         STREAM     CONNECTED     366908
+unix  3      [ ]         STREAM     CONNECTED     366909
+unix  3      [ ]         STREAM     CONNECTED     366910
+unix  3      [ ]         STREAM     CONNECTED     366905
+unix  3      [ ]         STREAM     CONNECTED     366906
+unix  3      [ ]         STREAM     CONNECTED     366903
+unix  3      [ ]         STREAM     CONNECTED     366904
+unix  3      [ ]         STREAM     CONNECTED     365111
+unix  3      [ ]         STREAM     CONNECTED     365112
+unix  3      [ ]         STREAM     CONNECTED     365113
+unix  3      [ ]         STREAM     CONNECTED     365107
+unix  3      [ ]         STREAM     CONNECTED     365108
+unix  3      [ ]         STREAM     CONNECTED     365109
+unix  3      [ ]         STREAM     CONNECTED     365110
+unix  3      [ ]         STREAM     CONNECTED     365106
+
+root@node01:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 node01:58224            node01:5555             TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+Node02
+
+root@node02:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+root@node02:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 node02:5555             node02:52156            ESTABLISHED
+tcp        0      0 node02:52156            node02:5555             ESTABLISHED
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+unix  3      [ ]         STREAM     CONNECTED     369763
+unix  3      [ ]         STREAM     CONNECTED     369764
+unix  3      [ ]         STREAM     CONNECTED     369757
+unix  3      [ ]         STREAM     CONNECTED     369758
+unix  3      [ ]         STREAM     CONNECTED     369759
+unix  3      [ ]         STREAM     CONNECTED     369760
+unix  3      [ ]         STREAM     CONNECTED     369761
+unix  3      [ ]         STREAM     CONNECTED     369762
+unix  3      [ ]         STREAM     CONNECTED     366048
+unix  3      [ ]         STREAM     CONNECTED     366049
+unix  3      [ ]         STREAM     CONNECTED     366050
+unix  3      [ ]         STREAM     CONNECTED     366051
+unix  3      [ ]         STREAM     CONNECTED     366052
+unix  3      [ ]         STREAM     CONNECTED     366053
+unix  3      [ ]         STREAM     CONNECTED     366054
+unix  3      [ ]         STREAM     CONNECTED     366055
+
+root@node02:/lab# netstat
+Active Internet connections (w/o servers)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State
+tcp        0      0 node02:52156            node02:5555             TIME_WAIT  
+Active UNIX domain sockets (w/o servers)
+Proto RefCnt Flags       Type       State         I-Node   Path
+
+
+
+
