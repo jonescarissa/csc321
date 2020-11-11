@@ -1,0 +1,639 @@
+google.com has address 64.233.177.100
+google.com has address 64.233.177.139
+google.com has address 64.233.177.138
+google.com has address 64.233.177.113
+google.com has address 64.233.177.102
+google.com has address 64.233.177.101
+google.com has IPv6 address 2607:f8b0:4002:c08::66
+google.com has IPv6 address 2607:f8b0:4002:c08::64
+google.com has IPv6 address 2607:f8b0:4002:c08::8b
+google.com has IPv6 address 2607:f8b0:4002:c08::71
+google.com mail is handled by 20 alt1.aspmx.l.google.com.
+google.com mail is handled by 10 aspmx.l.google.com.
+google.com mail is handled by 30 alt2.aspmx.l.google.com.
+google.com mail is handled by 40 alt3.aspmx.l.google.com.
+google.com mail is handled by 50 alt4.aspmx.l.google.com.
+youtube.com has address 74.125.196.136
+youtube.com has address 74.125.196.91
+youtube.com has address 74.125.196.93
+youtube.com has address 74.125.196.190
+youtube.com has IPv6 address 2607:f8b0:4002:c07::be
+youtube.com has IPv6 address 2607:f8b0:4002:c07::88
+youtube.com has IPv6 address 2607:f8b0:4002:c07::5b
+youtube.com has IPv6 address 2607:f8b0:4002:c07::5d
+youtube.com mail is handled by 30 alt2.aspmx.l.google.com.
+youtube.com mail is handled by 40 alt3.aspmx.l.google.com.
+youtube.com mail is handled by 50 alt4.aspmx.l.google.com.
+youtube.com mail is handled by 20 alt1.aspmx.l.google.com.
+youtube.com mail is handled by 10 aspmx.l.google.com.
+facebook.com has address 31.13.65.36
+facebook.com has IPv6 address 2a03:2880:f111:83:face:b00c:0:25de
+facebook.com mail is handled by 10 smtpin.vvv.facebook.com.
+baidu.com has address 220.181.38.148
+baidu.com has address 39.156.69.79
+baidu.com mail is handled by 10 mx.maillb.baidu.com.
+baidu.com mail is handled by 20 mx1.baidu.com.
+baidu.com mail is handled by 15 mx.n.shifen.com.
+baidu.com mail is handled by 20 mx50.baidu.com.
+baidu.com mail is handled by 20 jpmx.baidu.com.
+yahoo.com has address 74.6.231.20
+yahoo.com has address 74.6.231.21
+yahoo.com has address 98.137.11.164
+yahoo.com has address 74.6.143.26
+yahoo.com has address 98.137.11.163
+yahoo.com has address 74.6.143.25
+yahoo.com has IPv6 address 2001:4998:124:1507::f000
+yahoo.com has IPv6 address 2001:4998:44:3507::8000
+yahoo.com has IPv6 address 2001:4998:24:120d::1:1
+yahoo.com has IPv6 address 2001:4998:24:120d::1:0
+yahoo.com has IPv6 address 2001:4998:44:3507::8001
+yahoo.com has IPv6 address 2001:4998:124:1507::f001
+yahoo.com mail is handled by 1 mta5.am0.yahoodns.net.
+yahoo.com mail is handled by 1 mta7.am0.yahoodns.net.
+yahoo.com mail is handled by 1 mta6.am0.yahoodns.net.
+amazon.com has address 176.32.103.205
+amazon.com has address 176.32.98.166
+amazon.com has address 205.251.242.103
+amazon.com mail is handled by 5 amazon-smtp.amazon.com.
+wikipedia.org has address 208.80.153.224
+wikipedia.org has IPv6 address 2620:0:860:ed1a::1
+wikipedia.org mail is handled by 10 mx1001.wikimedia.org.
+wikipedia.org mail is handled by 50 mx2001.wikimedia.org.
+qq.com has address 58.247.214.47
+qq.com has address 125.39.52.26
+qq.com has address 58.250.137.36
+qq.com mail is handled by 10 mx3.qq.com.
+qq.com mail is handled by 20 mx2.qq.com.
+qq.com mail is handled by 30 mx1.qq.com.
+google.co.in has address 64.233.177.94
+google.co.in has IPv6 address 2607:f8b0:4002:c08::5e
+google.co.in mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.in mail is handled by 10 aspmx.l.google.com.
+google.co.in mail is handled by 50 alt4.aspmx.l.google.com.
+google.co.in mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.in mail is handled by 20 alt1.aspmx.l.google.com.
+twitter.com has address 104.244.42.65
+twitter.com mail is handled by 30 aspmx2.googlemail.com.
+twitter.com mail is handled by 20 alt1.aspmx.l.google.com.
+twitter.com mail is handled by 30 aspmx3.googlemail.com.
+twitter.com mail is handled by 20 alt2.aspmx.l.google.com.
+twitter.com mail is handled by 10 aspmx.l.google.com.
+live.com has address 204.79.197.212
+live.com mail is handled by 2 live-com.olc.protection.outlook.com.
+taobao.com has address 140.205.220.96
+taobao.com has address 140.205.94.189
+taobao.com mail is handled by 10 mx1.alibaba-inc.com.
+google.co.jp has address 108.177.122.94
+google.co.jp has IPv6 address 2607:f8b0:4002:c02::5e
+google.co.jp mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.jp mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.jp mail is handled by 50 alt4.aspmx.l.google.com.
+google.co.jp mail is handled by 10 aspmx.l.google.com.
+google.co.jp mail is handled by 30 alt2.aspmx.l.google.com.
+bing.com has address 204.79.197.200
+bing.com has address 13.107.21.200
+bing.com has IPv6 address 2620:1ec:c11::200
+bing.com mail is handled by 10 bing-com.mail.protection.outlook.com.
+instagram.com has address 54.145.49.123
+instagram.com has address 54.152.61.144
+instagram.com has address 52.1.238.189
+instagram.com has address 34.237.200.213
+instagram.com has address 52.204.190.157
+instagram.com has address 34.206.159.43
+instagram.com has address 52.72.191.48
+instagram.com has address 52.1.109.248
+instagram.com has IPv6 address 2406:da00:ff00::23ad:a6c8
+instagram.com has IPv6 address 2406:da00:ff00::3400:67c5
+instagram.com has IPv6 address 2406:da00:ff00::22e2:4b14
+instagram.com has IPv6 address 2406:da00:ff00::36a5:d6ad
+instagram.com has IPv6 address 2406:da00:ff00::3d9:b221
+instagram.com has IPv6 address 2406:da00:ff00::3403:478f
+instagram.com has IPv6 address 2406:da00:ff00::3401:e6cd
+instagram.com has IPv6 address 2406:da00:ff00::34c8:3639
+instagram.com mail is handled by 10 mxb-00082601.gslb.pphosted.com.
+instagram.com mail is handled by 10 mxa-00082601.gslb.pphosted.com.
+weibo.com has address 47.254.92.5
+sina.com.cn has address 123.125.104.150
+sina.com.cn has address 123.126.55.41
+sina.com.cn has address 123.126.45.205
+sina.com.cn has address 49.7.37.133
+sina.com.cn mail is handled by 10 freemx3.sinamail.sina.com.cn.
+sina.com.cn mail is handled by 10 freemx2.sinamail.sina.com.cn.
+sina.com.cn mail is handled by 10 freemx1.sinamail.sina.com.cn.
+linkedin.com has address 108.174.10.10
+linkedin.com has IPv6 address 2620:109:c002::6cae:a0a
+linkedin.com mail is handled by 10 mail-c.linkedin.com.
+linkedin.com mail is handled by 15 mail-a.linkedin.com.
+linkedin.com mail is handled by 20 mail.linkedin.com.
+linkedin.com mail is handled by 10 mail-d.linkedin.com.
+yahoo.co.jp has address 182.22.59.229
+yahoo.co.jp has address 183.79.135.206
+yahoo.co.jp mail is handled by 10 mx5.mail.yahoo.co.jp.
+yahoo.co.jp mail is handled by 10 mx3.mail.yahoo.co.jp.
+yahoo.co.jp mail is handled by 10 mx2.mail.yahoo.co.jp.
+yahoo.co.jp mail is handled by 10 mx1.mail.yahoo.co.jp.
+msn.com has address 13.82.28.61
+msn.com mail is handled by 2 msn-com.olc.protection.outlook.com.
+vk.com has address 87.240.190.67
+vk.com has address 87.240.190.72
+vk.com has address 87.240.190.78
+vk.com has address 93.186.225.208
+vk.com has address 87.240.139.194
+vk.com has address 87.240.137.158
+vk.com mail is handled by 20 mx2.vk.com.
+vk.com mail is handled by 0 mx.vk.com.
+google.de has address 64.233.177.94
+google.de has IPv6 address 2607:f8b0:4002:c08::5e
+google.de mail is handled by 10 aspmx.l.google.com.
+google.de mail is handled by 30 alt2.aspmx.l.google.com.
+google.de mail is handled by 20 alt1.aspmx.l.google.com.
+google.de mail is handled by 40 alt3.aspmx.l.google.com.
+google.de mail is handled by 50 alt4.aspmx.l.google.com.
+yandex.ru has address 5.255.255.80
+yandex.ru has address 5.255.255.88
+yandex.ru has address 77.88.55.80
+yandex.ru has address 77.88.55.77
+yandex.ru has IPv6 address 2a02:6b8:a::a
+hao123.com has address 39.156.68.154
+hao123.com has address 106.120.159.68
+hao123.com has address 202.106.2.86
+google.co.uk has address 64.233.177.94
+google.co.uk has IPv6 address 2607:f8b0:4002:c08::5e
+google.co.uk mail is handled by 50 alt4.aspmx.l.google.com.
+google.co.uk mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.uk mail is handled by 10 aspmx.l.google.com.
+google.co.uk mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.uk mail is handled by 20 alt1.aspmx.l.google.com.
+reddit.com has address 151.101.129.140
+reddit.com has address 151.101.65.140
+reddit.com has address 151.101.193.140
+reddit.com has address 151.101.1.140
+reddit.com mail is handled by 5 alt2.aspmx.l.google.com.
+reddit.com mail is handled by 1 aspmx.l.google.com.
+reddit.com mail is handled by 10 aspmx2.googlemail.com.
+reddit.com mail is handled by 10 aspmx3.googlemail.com.
+reddit.com mail is handled by 5 alt1.aspmx.l.google.com.
+ebay.com has address 66.135.195.175
+ebay.com has address 66.135.196.249
+ebay.com mail is handled by 10 mx2.hc2186-24.iphmx.com.
+ebay.com mail is handled by 10 mx1.hc2186-24.iphmx.com.
+google.fr has address 108.177.122.94
+google.fr has IPv6 address 2607:f8b0:4002:c02::5e
+google.fr mail is handled by 30 alt2.aspmx.l.google.com.
+google.fr mail is handled by 50 alt4.aspmx.l.google.com.
+google.fr mail is handled by 40 alt3.aspmx.l.google.com.
+google.fr mail is handled by 10 aspmx.l.google.com.
+google.fr mail is handled by 20 alt1.aspmx.l.google.com.
+t.co has address 104.244.42.133
+tmall.com has address 140.205.130.99
+tmall.com has address 140.205.94.193
+tmall.com mail is handled by 10 mx1.alibaba-inc.com.
+google.com.br has address 74.125.21.94
+google.com.br has IPv6 address 2607:f8b0:4002:c06::5e
+google.com.br mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.br mail is handled by 10 aspmx.l.google.com.
+google.com.br mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.br mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.br mail is handled by 40 alt3.aspmx.l.google.com.
+360.cn has address 36.110.213.10
+360.cn has address 36.99.170.84
+360.cn mail is handled by 3 mx1.qihoo.net.
+360.cn mail is handled by 5 mx3.qihoo.net.
+360.cn mail is handled by 3 mx2.qihoo.net.
+sohu.com has address 211.159.191.18
+sohu.com mail is handled by 5 sohumx1.sohu.com.
+sohu.com mail is handled by 10 sohumx.h.a.sohu.com.
+sohu.com mail is handled by 5 sohumx2.sohu.com.
+amazon.co.jp has address 52.119.164.121
+amazon.co.jp has address 52.119.161.5
+amazon.co.jp has address 52.119.168.48
+pinterest.com has address 151.101.0.84
+pinterest.com has address 151.101.64.84
+pinterest.com has address 151.101.128.84
+pinterest.com has address 151.101.192.84
+pinterest.com mail is handled by 10 alt4.aspmx.l.google.com.
+pinterest.com mail is handled by 1 aspmx.l.google.com.
+pinterest.com mail is handled by 5 alt1.aspmx.l.google.com.
+pinterest.com mail is handled by 5 alt2.aspmx.l.google.com.
+pinterest.com mail is handled by 10 alt3.aspmx.l.google.com.
+mail.ru has address 217.69.139.202
+mail.ru has address 217.69.139.200
+mail.ru has address 94.100.180.201
+mail.ru has address 94.100.180.200
+mail.ru has IPv6 address 2a00:1148:db00:0:b0b0::1
+mail.ru mail is handled by 10 mxs.mail.ru.
+onclickads.net has address 194.187.98.144
+onclickads.net has address 194.187.98.200
+onclickads.net has address 194.187.98.198
+onclickads.net mail is handled by 10 relay.bestofpost.com.
+onclickads.net mail is handled by 20 alt1.aspmx.l.google.com.
+onclickads.net mail is handled by 20 aspmx.l.google.com.
+onclickads.net mail is handled by 30 alt2.aspmx.l.google.com.
+onclickads.net mail is handled by 40 aspmx2.googlemail.com.
+onclickads.net mail is handled by 40 aspmx3.googlemail.com.
+netflix.com has address 52.73.161.171
+netflix.com has address 54.173.102.182
+netflix.com has address 54.156.186.14
+netflix.com has address 34.192.121.160
+netflix.com has address 107.21.29.216
+netflix.com has address 54.209.220.147
+netflix.com has address 34.198.43.9
+netflix.com has address 54.174.157.73
+netflix.com has IPv6 address 2406:da00:ff00::36d2:41fd
+netflix.com has IPv6 address 2406:da00:ff00::36a5:102f
+netflix.com has IPv6 address 2406:da00:ff00::3655:ac7c
+netflix.com has IPv6 address 2406:da00:ff00::36af:11f0
+netflix.com has IPv6 address 2406:da00:ff00::369c:c16c
+netflix.com has IPv6 address 2406:da00:ff00::3407:17a
+netflix.com has IPv6 address 2406:da00:ff00::6b15:1dd8
+netflix.com has IPv6 address 2406:da00:ff00::3457:5703
+netflix.com mail is handled by 10 aspmx3.googlemail.com.
+netflix.com mail is handled by 5 alt1.aspmx.l.google.com.
+netflix.com mail is handled by 5 alt2.aspmx.l.google.com.
+netflix.com mail is handled by 1 aspmx.l.google.com.
+netflix.com mail is handled by 10 aspmx2.googlemail.com.
+google.it has address 173.194.219.94
+google.it has IPv6 address 2607:f8b0:4002:c11::5e
+google.it mail is handled by 10 aspmx.l.google.com.
+google.it mail is handled by 40 alt3.aspmx.l.google.com.
+google.it mail is handled by 20 alt1.aspmx.l.google.com.
+google.it mail is handled by 30 alt2.aspmx.l.google.com.
+google.it mail is handled by 50 alt4.aspmx.l.google.com.
+google.ru has address 108.177.122.94
+google.ru has IPv6 address 2607:f8b0:4002:c06::5e
+google.ru mail is handled by 40 alt3.aspmx.l.google.com.
+google.ru mail is handled by 50 alt4.aspmx.l.google.com.
+google.ru mail is handled by 20 alt1.aspmx.l.google.com.
+google.ru mail is handled by 30 alt2.aspmx.l.google.com.
+google.ru mail is handled by 10 aspmx.l.google.com.
+microsoft.com has address 13.77.161.179
+microsoft.com has address 104.215.148.63
+microsoft.com has address 40.76.4.15
+microsoft.com has address 40.112.72.205
+microsoft.com has address 40.113.200.201
+microsoft.com mail is handled by 10 microsoft-com.mail.protection.outlook.com.
+google.es has address 74.125.21.94
+google.es has IPv6 address 2607:f8b0:4002:c02::5e
+google.es mail is handled by 40 alt3.aspmx.l.google.com.
+google.es mail is handled by 50 alt4.aspmx.l.google.com.
+google.es mail is handled by 30 alt2.aspmx.l.google.com.
+google.es mail is handled by 10 aspmx.l.google.com.
+google.es mail is handled by 20 alt1.aspmx.l.google.com.
+wordpress.com has address 192.0.78.17
+wordpress.com has address 192.0.78.9
+wordpress.com mail is handled by 0 mail.automattic.com.
+gmw.cn has address 123.56.255.157
+gmw.cn has IPv6 address 2408:400a:38:400:df2e:c0f8:764e:7f21
+gmw.cn mail is handled by 1 mail.gmw.cn.
+tumblr.com has address 74.114.154.21
+tumblr.com has address 74.114.154.17
+tumblr.com mail is handled by 1 aspmx.l.google.com.
+tumblr.com mail is handled by 5 alt2.aspmx.l.google.com.
+tumblr.com mail is handled by 10 aspmx2.googlemail.com.
+tumblr.com mail is handled by 5 alt1.aspmx.l.google.com.
+tumblr.com mail is handled by 10 aspmx3.googlemail.com.
+PayPal.com has address 64.4.250.37
+PayPal.com has address 64.4.250.36
+paypal.com mail is handled by 10 mx1.paypalcorp.com.
+paypal.com mail is handled by 10 mx2.paypalcorp.com.
+blogspot.com has address 173.194.219.191
+blogspot.com has IPv6 address 2607:f8b0:4002:c03::bf
+imgur.com has address 151.101.44.193
+imgur.com mail is handled by 5 alt2.aspmx.l.google.com.
+imgur.com mail is handled by 1 aspmx.l.google.com.
+imgur.com mail is handled by 10 aspmx2.googlemail.com.
+imgur.com mail is handled by 5 alt1.aspmx.l.google.com.
+imgur.com mail is handled by 10 aspmx3.googlemail.com.
+stackoverflow.com has address 151.101.65.69
+stackoverflow.com has address 151.101.1.69
+stackoverflow.com has address 151.101.193.69
+stackoverflow.com has address 151.101.129.69
+stackoverflow.com mail is handled by 1 aspmx.l.google.com.
+stackoverflow.com mail is handled by 5 alt2.aspmx.l.google.com.
+stackoverflow.com mail is handled by 10 alt4.aspmx.l.google.com.
+stackoverflow.com mail is handled by 5 alt1.aspmx.l.google.com.
+stackoverflow.com mail is handled by 10 alt3.aspmx.l.google.com.
+aliexpress.com has address 198.11.132.250
+aliexpress.com mail is handled by 10 mx2.mail.aliyun.com.
+naver.com has address 210.89.160.88
+naver.com has address 125.209.222.141
+naver.com has address 125.209.222.142
+naver.com has address 223.130.195.200
+naver.com mail is handled by 10 mx2.naver.com.
+naver.com mail is handled by 10 mx3.naver.com.
+naver.com mail is handled by 10 mx1.naver.com.
+ok.ru has address 5.61.23.11
+ok.ru has address 217.20.147.1
+ok.ru has address 217.20.155.13
+ok.ru mail is handled by 10 mx1.es.mail.ru.
+ok.ru mail is handled by 10 mx2.es.mail.ru.
+apple.com has address 17.253.144.10
+apple.com mail is handled by 10 nwk-aaemail-lapp02.apple.com.
+apple.com mail is handled by 10 nwk-aaemail-lapp01.apple.com.
+apple.com mail is handled by 10 ma1-aaemail-dr-lapp03.apple.com.
+apple.com mail is handled by 10 ma1-aaemail-dr-lapp02.apple.com.
+apple.com mail is handled by 10 ma1-aaemail-dr-lapp01.apple.com.
+apple.com mail is handled by 10 nwk-aaemail-lapp03.apple.com.
+github.com has address 140.82.112.3
+github.com mail is handled by 10 alt3.aspmx.l.google.com.
+github.com mail is handled by 5 alt1.aspmx.l.google.com.
+github.com mail is handled by 5 alt2.aspmx.l.google.com.
+github.com mail is handled by 10 alt4.aspmx.l.google.com.
+github.com mail is handled by 1 aspmx.l.google.com.
+google.com.mx has address 64.233.177.94
+google.com.mx has IPv6 address 2607:f8b0:4002:c08::5e
+google.com.mx mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.mx mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.mx mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.mx mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.mx mail is handled by 10 aspmx.l.google.com.
+chinadaily.com.cn has address 111.13.49.147
+chinadaily.com.cn mail is handled by 10 mail.chinadaily.com.cn.
+imdb.com has address 52.94.237.74
+imdb.com has address 52.94.225.248
+imdb.com has address 52.94.228.167
+imdb.com mail is handled by 10 amazon-smtp.amazon.com.
+google.co.kr has address 64.233.177.94
+google.co.kr has IPv6 address 2607:f8b0:4002:c08::5e
+fc2.com has address 199.48.210.151
+fc2.com mail is handled by 10 mx01.fc2.com.
+jd.com has address 111.13.149.108
+jd.com has address 120.52.148.118
+jd.com has address 118.193.98.63
+jd.com mail is handled by 10 mx.jd.com.
+jd.com mail is handled by 30 mx1.jd.com.
+blogger.com has address 108.177.122.191
+blogger.com has IPv6 address 2607:f8b0:4002:c02::bf
+blogger.com mail is handled by 10 alt2.gmr-smtp-in.l.google.com.
+blogger.com mail is handled by 5 gmr-smtp-in.l.google.com.
+blogger.com mail is handled by 10 alt1.gmr-smtp-in.l.google.com.
+163.com has address 123.58.180.7
+163.com has address 123.58.180.8
+163.com mail is handled by 10 163mx02.mxmail.netease.com.
+163.com mail is handled by 10 163mx01.mxmail.netease.com.
+163.com mail is handled by 10 163mx03.mxmail.netease.com.
+163.com mail is handled by 50 163mx00.mxmail.netease.com.
+google.ca has address 74.125.21.94
+google.ca has IPv6 address 2607:f8b0:4002:c06::5e
+google.ca mail is handled by 10 aspmx.l.google.com.
+google.ca mail is handled by 50 alt4.aspmx.l.google.com.
+google.ca mail is handled by 30 alt2.aspmx.l.google.com.
+google.ca mail is handled by 40 alt3.aspmx.l.google.com.
+google.ca mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.hk has address 108.177.122.94
+google.com.hk has IPv6 address 2607:f8b0:4002:c02::5e
+google.com.hk mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.hk mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.hk mail is handled by 10 aspmx.l.google.com.
+google.com.hk mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.hk mail is handled by 30 alt2.aspmx.l.google.com.
+whatsapp.com has address 31.13.88.60
+whatsapp.com has IPv6 address 2a03:2880:f218:c2:face:b00c:0:167
+whatsapp.com mail is handled by 10 mxa-00082601.gslb.pphosted.com.
+whatsapp.com mail is handled by 10 mxb-00082601.gslb.pphosted.com.
+amazon.in has address 54.239.33.92
+amazon.in has address 52.95.116.115
+amazon.in has address 52.95.120.67
+amazon.in mail is handled by 10 amazon-smtp.amazon.com.
+office.com has address 13.107.6.156
+office.com has IPv6 address 2620:1ec:a92::156
+google.com.tr has address 74.125.138.94
+google.com.tr has IPv6 address 2607:f8b0:4002:c0c::5e
+google.com.tr mail is handled by 10 aspmx.l.google.com.
+google.com.tr mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.tr mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.tr mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.tr mail is handled by 40 alt3.aspmx.l.google.com.
+tianya.cn has address 124.225.65.154
+tianya.cn mail is handled by 10 mxbiz2.qq.com.
+tianya.cn mail is handled by 5 mxbiz1.qq.com.
+google.co.id has address 172.217.3.227
+google.co.id has IPv6 address 2607:f8b0:4002:80a::2003
+google.co.id mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.id mail is handled by 50 alt4.aspmx.l.google.com.
+google.co.id mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.id mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.id mail is handled by 10 aspmx.l.google.com.
+youku.com has address 106.11.43.183
+youku.com has IPv6 address 2408:4001:f10::8
+youku.com has IPv6 address 2408:4001:f00::3a
+youku.com has IPv6 address 2408:4001:f00::1af
+youku.com has IPv6 address 2408:4001:f10::fd
+youku.com mail is handled by 20 mx2.youku.com.
+youku.com mail is handled by 20 mx1.youku.com.
+rakuten.co.jp has address 133.237.16.234
+rakuten.co.jp mail is handled by 0 rakuten-co-jp.mail.protection.outlook.com.
+craigslist.org has address 208.82.237.129
+craigslist.org mail is handled by 10 mxicorpf.craigslist.org.
+amazon.de has address 52.95.120.34
+amazon.de has address 54.239.39.102
+amazon.de has address 176.32.108.185
+amazon.de mail is handled by 10 amazon-smtp.amazon.com.
+nicovideo.jp has address 133.152.43.29
+google.pl has address 216.58.193.163
+google.pl has IPv6 address 2607:f8b0:4002:812::2003
+google.pl mail is handled by 40 alt3.aspmx.l.google.com.
+google.pl mail is handled by 50 alt4.aspmx.l.google.com.
+google.pl mail is handled by 30 alt2.aspmx.l.google.com.
+google.pl mail is handled by 10 aspmx.l.google.com.
+google.pl mail is handled by 20 alt1.aspmx.l.google.com.
+soso.com is an alias for e.proxy.sogou.com.
+e.proxy.sogou.com has address 119.28.109.132
+e.proxy.sogou.com has address 118.191.216.57
+e.proxy.sogou.com has address 118.191.216.42
+bilibili.com has address 110.43.34.66
+bilibili.com has address 119.3.70.188
+bilibili.com has address 139.159.241.37
+bilibili.com has address 119.3.238.64
+bilibili.com has address 120.92.174.135
+bilibili.com mail is handled by 5 bilibili-com.mail.protection.partner.outlook.cn.
+bilibili.com mail is handled by 10 n89-xyz.mail.protection.partner.outlook.cn.
+dropbox.com has address 162.125.248.1
+dropbox.com has IPv6 address 2620:100:6040:1::a27d:f801
+dropbox.com mail is handled by 10 alt4.aspmx.l.google.com.
+dropbox.com mail is handled by 5 alt1.aspmx.l.google.com.
+dropbox.com mail is handled by 5 alt2.aspmx.l.google.com.
+dropbox.com mail is handled by 1 aspmx.l.google.com.
+dropbox.com mail is handled by 10 alt3.aspmx.l.google.com.
+xinhuanet.com has address 202.108.119.194
+xinhuanet.com has address 202.108.119.193
+xinhuanet.com mail is handled by 10 mx.xinhuanet.com.
+outbrain.com has address 192.82.211.254
+outbrain.com has address 192.82.210.254
+outbrain.com mail is handled by 10 aspmx.l.google.com.
+outbrain.com mail is handled by 20 alt1.aspmx.l.google.com.
+pixnet.net has address 103.23.108.107
+alibaba.com has address 198.11.132.198
+alibaba.com has address 205.204.101.142
+alibaba.com mail is handled by 10 mx01.mail.alibaba.com.
+alibaba.com mail is handled by 20 mx02.mail.alibaba.com.
+alipay.com has address 110.75.129.5
+alipay.com has address 110.75.139.5
+alipay.com mail is handled by 10 mx1.alibaba-inc.com.
+microsoftonline.com has address 52.178.167.109
+microsoftonline.com has address 40.84.199.233
+microsoftonline.com mail is handled by 0 mail.global.frontbridge.com.
+google.com.tw has address 108.177.122.94
+google.com.tw has IPv6 address 2607:f8b0:4002:c02::5e
+google.com.tw mail is handled by 10 aspmx.l.google.com.
+google.com.tw mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.tw mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.tw mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.tw mail is handled by 30 alt2.aspmx.l.google.com.
+booking.com has address 5.57.16.220
+booking.com mail is handled by 10 mxa-0032a201.gslb.pphosted.com.
+booking.com mail is handled by 10 mxb-0032a201.gslb.pphosted.com.
+google.com.au has address 74.125.21.94
+google.com.au has IPv6 address 2607:f8b0:4002:c06::5e
+google.com.au mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.au mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.au mail is handled by 10 aspmx.l.google.com.
+google.com.au mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.au mail is handled by 40 alt3.aspmx.l.google.com.
+popads.net has address 216.21.13.13
+popads.net has address 216.21.13.12
+popads.net mail is handled by 0 popads-net.mail.protection.outlook.com.
+cntv.cn has address 202.108.8.151
+cntv.cn is an alias for jump.cntv.cn.
+cntv.cn is an alias for jump.cntv.cn.
+zhihu.com has address 103.41.167.234
+zhihu.com mail is handled by 5 ALT1.ASPMX.L.GOOGLE.COM.
+zhihu.com mail is handled by 5 ALT2.ASPMX.L.GOOGLE.COM.
+zhihu.com mail is handled by 10 ASPMX5.GOOGLEMAIL.COM.
+zhihu.com mail is handled by 1 ASPMX.L.GOOGLE.COM.
+zhihu.com mail is handled by 10 ASPMX4.GOOGLEMAIL.COM.
+zhihu.com mail is handled by 10 ASPMX2.GOOGLEMAIL.COM.
+zhihu.com mail is handled by 10 ASPMX3.GOOGLEMAIL.COM.
+amazon.co.uk has address 54.239.33.58
+amazon.co.uk has address 178.236.7.220
+amazon.co.uk has address 54.239.34.171
+amazon.co.uk mail is handled by 10 amazon-smtp.amazon.com.
+diply.com has address 151.101.65.131
+diply.com has address 151.101.129.131
+diply.com has address 151.101.193.131
+diply.com has address 151.101.1.131
+diply.com mail is handled by 1 aspmx.l.google.com.
+diply.com mail is handled by 5 alt2.aspmx.l.google.com.
+diply.com mail is handled by 5 alt1.aspmx.l.google.com.
+diply.com mail is handled by 10 alt4.aspmx.l.google.com.
+diply.com mail is handled by 10 alt3.aspmx.l.google.com.
+coccoc.com has address 123.30.175.29
+coccoc.com mail is handled by 1 ASPMX.L.GOOGLE.com.
+coccoc.com mail is handled by 5 ALT1.ASPMX.L.GOOGLE.com.
+coccoc.com mail is handled by 10 ALT2.ASPMX.L.GOOGLE.com.
+coccoc.com mail is handled by 5 ALT2.ASPMX.L.GOOGLE.com.
+cnn.com has address 151.101.129.67
+cnn.com has address 151.101.1.67
+cnn.com has address 151.101.65.67
+cnn.com has address 151.101.193.67
+cnn.com has IPv6 address 2a04:4e42:600::323
+cnn.com has IPv6 address 2a04:4e42::323
+cnn.com has IPv6 address 2a04:4e42:200::323
+cnn.com has IPv6 address 2a04:4e42:400::323
+cnn.com mail is handled by 10 mxb-00241e02.gslb.pphosted.com.
+cnn.com mail is handled by 10 mxa-00241e02.gslb.pphosted.com.
+bbc.co.uk has address 151.101.0.81
+bbc.co.uk has address 151.101.64.81
+bbc.co.uk has address 151.101.128.81
+bbc.co.uk has address 151.101.192.81
+bbc.co.uk has IPv6 address 2a04:4e42:400::81
+bbc.co.uk has IPv6 address 2a04:4e42:600::81
+bbc.co.uk has IPv6 address 2a04:4e42::81
+bbc.co.uk has IPv6 address 2a04:4e42:200::81
+bbc.co.uk mail is handled by 10 cluster1.eu.messagelabs.com.
+bbc.co.uk mail is handled by 20 cluster1a.eu.messagelabs.com.
+twitch.tv has address 151.101.130.167
+twitch.tv has address 151.101.2.167
+twitch.tv has address 151.101.194.167
+twitch.tv has address 151.101.66.167
+twitch.tv mail is handled by 40 aspmx2.googlemail.com.
+twitch.tv mail is handled by 20 alt1.aspmx.l.google.com.
+twitch.tv mail is handled by 30 alt2.aspmx.l.google.com.
+twitch.tv mail is handled by 50 aspmx3.googlemail.com.
+twitch.tv mail is handled by 10 aspmx.l.google.com.
+wikia.com has address 151.101.128.194
+wikia.com has address 151.101.0.194
+wikia.com has address 151.101.192.194
+wikia.com has address 151.101.64.194
+wikia.com has IPv6 address 2a04:4e42:600::194
+wikia.com has IPv6 address 2a04:4e42::194
+wikia.com has IPv6 address 2a04:4e42:400::194
+wikia.com has IPv6 address 2a04:4e42:200::194
+wikia.com mail is handled by 5 ASPMX.L.GOOGLE.COM.
+wikia.com mail is handled by 15 ALT2.ASPMX.L.GOOGLE.COM.
+wikia.com mail is handled by 10 ALT1.ASPMX.L.GOOGLE.COM.
+google.co.th has address 64.233.177.94
+google.co.th has IPv6 address 2607:f8b0:4002:c08::5e
+google.co.th mail is handled by 50 alt4.aspmx.l.google.com.
+google.co.th mail is handled by 30 alt2.aspmx.l.google.com.
+google.co.th mail is handled by 40 alt3.aspmx.l.google.com.
+google.co.th mail is handled by 20 alt1.aspmx.l.google.com.
+google.co.th mail is handled by 10 aspmx.l.google.com.
+google.com.ar has address 64.233.177.94
+google.com.ar has IPv6 address 2607:f8b0:4002:c08::5e
+google.com.ar mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.ar mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.ar mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.ar mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.ar mail is handled by 10 aspmx.l.google.com.
+go.com has address 23.236.60.174
+go.com mail is handled by 0 mx.go.com.cust.b.hostedemail.com.
+google.nl has address 64.233.177.94
+google.nl has IPv6 address 2607:f8b0:4002:c08::5e
+google.nl mail is handled by 20 alt1.aspmx.l.google.com.
+google.nl mail is handled by 30 alt2.aspmx.l.google.com.
+google.nl mail is handled by 50 alt4.aspmx.l.google.com.
+google.nl mail is handled by 40 alt3.aspmx.l.google.com.
+google.nl mail is handled by 10 aspmx.l.google.com.
+ebay.co.uk has address 66.135.195.175
+ebay.co.uk has address 66.135.196.249
+kat.cr has address 91.195.241.136
+kat.cr mail is handled by 0 localhost.
+google.com.ua has address 108.177.122.94
+google.com.ua has IPv6 address 2607:f8b0:4002:c02::5e
+google.com.ua mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.ua mail is handled by 20 alt1.aspmx.l.google.com.
+google.com.ua mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.ua mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.ua mail is handled by 10 aspmx.l.google.com.
+avito.ru has address 185.89.12.132
+avito.ru mail is handled by 1 avito-ru.mail.protection.outlook.com.
+google.com.vn has address 64.233.177.94
+google.com.vn has IPv6 address 2607:f8b0:4002:c08::5e
+google.com.vn mail is handled by 50 alt4.aspmx.l.google.com.
+google.com.vn mail is handled by 30 alt2.aspmx.l.google.com.
+google.com.vn mail is handled by 40 alt3.aspmx.l.google.com.
+google.com.vn mail is handled by 10 aspmx.l.google.com.
+google.com.vn mail is handled by 20 alt1.aspmx.l.google.com.
+doubleclick.net has address 173.194.219.102
+doubleclick.net has address 173.194.219.138
+doubleclick.net has address 173.194.219.139
+doubleclick.net has address 173.194.219.101
+doubleclick.net has address 173.194.219.113
+doubleclick.net has address 173.194.219.100
+doubleclick.net has IPv6 address 2607:f8b0:4002:c03::8a
+doubleclick.net has IPv6 address 2607:f8b0:4002:c03::65
+doubleclick.net has IPv6 address 2607:f8b0:4002:c03::8b
+doubleclick.net has IPv6 address 2607:f8b0:4002:c03::71
+doubleclick.net mail is handled by 20 alt1.aspmx.l.google.com.
+doubleclick.net mail is handled by 30 alt2.aspmx.l.google.com.
+doubleclick.net mail is handled by 40 alt3.aspmx.l.google.com.
+doubleclick.net mail is handled by 10 aspmx.l.google.com.
+doubleclick.net mail is handled by 50 alt4.aspmx.l.google.com.
+googleadservices.com has address 64.233.185.157
+googleadservices.com has address 64.233.185.156
+googleadservices.com has address 64.233.185.155
+googleadservices.com has address 64.233.185.154
+googleadservices.com mail is handled by 20 alt1.aspmx.l.google.com.
+googleadservices.com mail is handled by 30 alt2.aspmx.l.google.com.
+googleadservices.com mail is handled by 40 alt3.aspmx.l.google.com.
+googleadservices.com mail is handled by 50 alt4.aspmx.l.google.com.
+googleadservices.com mail is handled by 10 aspmx.l.google.com.
+accuweather.com has address 23.73.176.195
+accuweather.com mail is handled by 20 d177367b.ess.barracudanetworks.com.
+accuweather.com mail is handled by 10 d177367a.ess.barracudanetworks.com.
+googleweblight.com has address 216.58.193.161
+googleweblight.com has IPv6 address 2607:f8b0:4002:812::2001
+answers.yahoo.com is an alias for any-media-router-abu1.prod.g03.yahoodns.net.
+any-media-router-abu1.prod.g03.yahoodns.net has address 76.13.32.153
+any-media-router-abu1.prod.g03.yahoodns.net has IPv6 address 2001:4998:124:1704::9000
